@@ -1,7 +1,7 @@
 # **Economy-plugin-project 經濟插件項目**
 
 ## Project Intro 項目介紹  
-Econonmy Plugin (Or ECONP in short) is a plugin planed to be used in [BC BOT](https://www.bcbot.fun/), a Chinese-language based Discord bot. . The plugin is planed to create a relaxing RPG game which player do not spend too much players' time.  
+Econonmy Plugin (Or ECONP in short) is a plugin planed to be used in [BC BOT](https://www.bcbot.fun/), a Chinese-language based Discord bot. . The plugin is planed to create a relaxing RPG game which do not spend too much players' time.  
 經濟插件將是中文Discord Bot -- [BC BOT](https://www.bcbot.fun/)的未來計劃。此插件是要讓打造一個休閑，不占用玩家太多時間的RPG游戲。  
 
 ## Updates 更新狀態
